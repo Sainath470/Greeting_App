@@ -1,1 +1,2 @@
-# Greeting App for storing tasks using PHP, MYSQL
+# ToDo List Application PHP and MySQL database
+#Greeting App
